@@ -1,0 +1,1 @@
+La raiz de este archivo va a ir a para a <castellano.txt> y <indice.txt>.
